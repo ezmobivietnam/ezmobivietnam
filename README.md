@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/programmer-p4NLw3I4U0idi" width="100"/>
+</div>
+
+
+
 ### Hi there 👋
 
 <!--
